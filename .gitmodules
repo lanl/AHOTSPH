@@ -1,0 +1,9 @@
+[submodule "ahotsph-2hot-apps"]
+	path = ahotsph-2hot-apps
+	url = git@github.com:lanl/ahotsph-2hot-apps.git
+[submodule "ahotsph-2hot"]
+	path = ahotsph-2hot
+	url = git@github.com:lanl/ahotsph-2hot.git
+[submodule "ahotsph-orig-tree16"]
+	path = ahotsph-orig-tree16
+	url = git@github.com:lanl/ahotsph-orig-tree16.git
